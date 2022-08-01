@@ -26,7 +26,7 @@ php artisan migrate
 ## run server
 
 ```
-php artisan server
+php artisan serve
 ```
 
 # enjoy
