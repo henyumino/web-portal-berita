@@ -22,7 +22,7 @@ npm install
 cp .env.example .env
 ```
 
-open .env file and change to your db username and password
+open .env file and change this line to your db username and password
 ```
 DB_DATABASE=your_database
 DB_USERNAME=your_db_username
