@@ -17,6 +17,18 @@ composer install
 npm install
 ```
 
+## copy new env file
+```
+cp .env.example .env
+```
+
+open .env file and change to your db username and password
+```
+DB_DATABASE=your_database
+DB_USERNAME=your_db_username
+DB_PASSWORD=your_db_password
+```
+
 ## run migration
 
 ```
